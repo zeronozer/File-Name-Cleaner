@@ -31,4 +31,4 @@ This program is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contributing
 
-Contributions to this program are welcome. If you encounter any issues or have suggestions for improvements, please create an issue or a pull request on the GitHub repository.
+Contributions to this program are welcome. If you encounter any issues or have suggestions for improvements, please create an issue or a pull request on the Codeberg repository.
