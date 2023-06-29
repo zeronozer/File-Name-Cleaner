@@ -1,6 +1,6 @@
 # FileNameCleaner
 
-FileNameCleaner is a Python program that removes a specified string or symbol from file names in the current directory.
+### **FileNameCleaner is a Python program that removes a specified string or symbol from file names in the current directory.**
 
 The "FileNameCleaner" repository contains a Python program that removes a specified string or symbol from file names in the current directory. The program is easy to use and requires only Python 3.6 or higher and the keyboard module. The program is useful for cleaning up file names and making them more consistent and readable. The repository also includes a README.md file with instructions for usage, notes, license information, and contribution guidelines.
 
